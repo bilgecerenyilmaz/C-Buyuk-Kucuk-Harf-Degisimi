@@ -1,6 +1,3 @@
-﻿/*isim:Bilge Ceren Yilmaz
-No:10658469302
-Vs 2022 ile yapildi*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
